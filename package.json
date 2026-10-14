@@ -1,0 +1,13 @@
+{
+  "name": "taekheon-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static personal profile with a dependency-free local Node.js server",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
